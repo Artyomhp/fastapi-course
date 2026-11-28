@@ -1,0 +1,1 @@
+print(pydantic.__version__)
